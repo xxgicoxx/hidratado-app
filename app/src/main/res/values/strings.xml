@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HidratadO</string>
+
+    <string name="timer">Timer</string>
+    <string name="settings">Settings</string>
+    <string name="set_timer">Set Timer</string>
+    <string name="set_period">App Settings</string>
+    <string name="notification_permission_denied">Notification permission denied</string>
+
+    <string name="initial_time">Initial Time</string>
+    <string name="final_time">Final Time</string>
+    <string name="set_initial_time">Set Initial Time</string>
+    <string name="set_final_time">Set Final Time</string>
+
+    <string name="minutes">Minutes</string>
+
+    <string-array name="water_facts">
+        <item>Water Helps to Maximize Physical Performance</item>
+        <item>Hydration Has a Major Effect on Energy Levels and Brain Function</item>
+        <item>Drinking Water May Help to Prevent and Treat Headaches</item>
+        <item>Drinking More Water May Help Relieve Constipation</item>
+        <item>Drinking Water May Help Treat Kidney Stones</item>
+        <item>Water Helps Prevent Hangovers</item>
+        <item>Drinking More Water Can Help With Weight Loss</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HidratadO</string>
+
+    <string name="timer">Tempo</string>
+    <string name="settings">Configurações</string>
+    <string name="set_timer">Definir Intervalos</string>
+    <string name="set_period">Configurações App</string>
+    <string name="notification_permission_denied">Permissão para notificações negada</string>
+
+    <string name="initial_time">Horário Inicial</string>
+    <string name="final_time">Horário Final</string>
+    <string name="set_initial_time">Definir Horário Inicial</string>
+    <string name="set_final_time">Definir Horário Final</string>
+
+    <string name="minutes">Minutos</string>
+
+    <string-array name="water_facts">
+        <item>A água ajuda a maximizar o desempenho físico</item>
+        <item>A hidratação tem um efeito significativo nos níveis de energia e função cerebral</item>
+        <item>Beber água pode ajudar a prevenir e tratar dores de cabeça</item>
+        <item>Beber mais água pode ajudar a aliviar a constipação</item>
+        <item>Beber água pode ajudar a tratar pedras nos rins</item>
+        <item>A água ajuda a prevenir ressacas</item>
+        <item>Beber mais água pode ajudar na perda de peso</item>
+    </string-array>
+</resources>
