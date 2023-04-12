@@ -2,7 +2,7 @@ package dev.gico.hidratado.presentation.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.focusable
-import androidx.compose.foundation.gestures.scrollBy
+import androidx.compose.foundation.gestures.animateScrollBy
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
@@ -60,7 +60,7 @@ fun ChipList(menuHeader: MenuHeader, menuItems: MutableList<MenuItem>) {
             modifier = Modifier
                 .onRotaryScrollEvent {
                     coroutineScope.launch {
-                        scalingLazyListState.scrollBy(it.verticalScrollPixels)
+                        scalingLazyListState.animateScrollBy(it.verticalScrollPixels)
                     }
 
                     true

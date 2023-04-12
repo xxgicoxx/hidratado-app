@@ -91,7 +91,11 @@ fun ChipRadioButtonList(menuHeader: MenuHeader, menuItems: MutableList<MenuItemR
                         .padding(bottom = 10.dp),
                     enabled = true,
                     label = {
-                        Text(item.label, maxLines = 1, overflow = TextOverflow.Ellipsis)
+                        Text(
+                            text = item.label,
+                            maxLines = 1,
+                            overflow = TextOverflow.Ellipsis
+                        )
                     },
                     toggleControl = {
                         RadioButton(
