@@ -10,9 +10,9 @@ android {
     defaultConfig {
         applicationId = "dev.gico.hidratado"
         minSdk = 30
-        targetSdk = 33
-        versionCode = 3
-        versionName = "3.0"
+        targetSdk = 30
+        versionCode = 4
+        versionName = "4.0"
         vectorDrawables {
             useSupportLibrary = true
         }
