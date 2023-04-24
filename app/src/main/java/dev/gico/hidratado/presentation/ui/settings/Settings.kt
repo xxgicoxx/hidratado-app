@@ -7,5 +7,6 @@ import dev.gico.hidratado.presentation.components.ChipList
 
 @Composable
 fun Settings(menuHeader: MenuHeader, menuItems: MutableList<MenuItem>) {
+
     ChipList(menuHeader, menuItems)
 }

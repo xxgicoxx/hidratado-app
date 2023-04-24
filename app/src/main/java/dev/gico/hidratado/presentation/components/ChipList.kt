@@ -38,6 +38,7 @@ import kotlinx.coroutines.launch
 
 @Composable
 fun ChipList(menuHeader: MenuHeader, menuItems: MutableList<MenuItem>) {
+
     val scalingLazyListState = rememberScalingLazyListState()
 
     Scaffold(

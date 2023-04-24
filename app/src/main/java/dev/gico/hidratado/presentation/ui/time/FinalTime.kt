@@ -8,6 +8,7 @@ import dev.gico.hidratado.data.preferences.TimePreferencesService
 
 @Composable
 fun FinalTime(context: Context, timePreferencesService: TimePreferencesService) {
+
     Timer(
         timePreferencesService.getSelectedFinalTime(),
         onTimeConfirm = {

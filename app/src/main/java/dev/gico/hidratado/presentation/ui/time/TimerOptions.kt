@@ -7,5 +7,6 @@ import dev.gico.hidratado.presentation.components.ChipRadioButtonList
 
 @Composable
 fun TimerOptions(menuHeader: MenuHeader, menuItems: MutableList<MenuItemRadio>) {
+
     ChipRadioButtonList(menuHeader, menuItems)
 }
