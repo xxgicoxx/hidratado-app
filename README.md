@@ -9,9 +9,9 @@ Wear OS app for help you stay hydrated.
 * Remind yourself to drink water periodically
 
 <p align="center" width="100" >
-  <img src="assets/imgs/menu.jpg" width="200">
-  <img src="assets/imgs/settings.jpg" width="200">
-  <img src="assets/imgs/notification.jpg" width="200">
+  <img src="assets/imgs/hidratado-menu.jpg" width="200">
+  <img src="assets/imgs/hidratado-settings.jpg" width="200">
+  <img src="assets/imgs/hidratado-notification.jpg" width="200">
 </p>
 
 # Prerequisites
