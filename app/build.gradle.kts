@@ -65,15 +65,15 @@ dependencies {
     implementation(libs.ui.tooling.preview)
     implementation(platform(libs.compose.bom))
 
-    implementation(libs.androidx.appcompat)
-
     implementation(libs.androidx.wear)
     implementation(libs.androidx.wear.compose.foundation)
-    implementation(libs.androidx.wear.compose.navigation)
     implementation(libs.androidx.wear.compose.material3)
+    implementation(libs.androidx.wear.compose.navigation)
 
-    implementation(libs.androidx.work.runtime.ktx)
+    implementation(libs.androidx.appcompat)
     implementation(libs.androidx.core.splashscreen)
+    implementation(libs.androidx.work.runtime.ktx)
+
     implementation(libs.horologist.composables)
 
     androidTestImplementation(libs.ui.test.junit4)

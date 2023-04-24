@@ -1,4 +1,4 @@
-package dev.gico.hidratado.service
+package dev.gico.hidratado.data.resources
 
 import android.content.Context
 import dev.gico.hidratado.R

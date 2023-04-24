@@ -5,8 +5,8 @@ import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
 import dev.gico.hidratado.R
-import dev.gico.hidratado.data.MenuHeader
-import dev.gico.hidratado.data.MenuItem
+import dev.gico.hidratado.data.domain.MenuHeader
+import dev.gico.hidratado.data.domain.MenuItem
 import dev.gico.hidratado.presentation.theme.AppTheme
 import dev.gico.hidratado.presentation.ui.settings.Settings
 

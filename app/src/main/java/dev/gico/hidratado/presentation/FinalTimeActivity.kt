@@ -5,7 +5,7 @@ import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
 import dev.gico.hidratado.presentation.theme.AppTheme
 import dev.gico.hidratado.presentation.ui.time.FinalTime
-import dev.gico.hidratado.service.TimePreferencesService
+import dev.gico.hidratado.data.preferences.TimePreferencesService
 
 class FinalTimeActivity : AppCompatActivity() {
 

@@ -32,8 +32,8 @@ import androidx.wear.compose.material.PositionIndicator
 import androidx.wear.compose.material.Scaffold
 import androidx.wear.compose.material.Text
 import androidx.wear.compose.material3.Icon
-import dev.gico.hidratado.data.MenuHeader
-import dev.gico.hidratado.data.MenuItem
+import dev.gico.hidratado.data.domain.MenuHeader
+import dev.gico.hidratado.data.domain.MenuItem
 import kotlinx.coroutines.launch
 
 @Composable

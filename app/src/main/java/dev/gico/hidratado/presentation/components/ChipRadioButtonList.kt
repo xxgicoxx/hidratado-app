@@ -31,8 +31,8 @@ import androidx.wear.compose.material.RadioButton
 import androidx.wear.compose.material.Scaffold
 import androidx.wear.compose.material.Text
 import androidx.wear.compose.material.ToggleChip
-import dev.gico.hidratado.data.MenuHeader
-import dev.gico.hidratado.data.MenuItemRadio
+import dev.gico.hidratado.data.domain.MenuHeader
+import dev.gico.hidratado.data.domain.MenuItemRadio
 import kotlinx.coroutines.launch
 
 @Composable

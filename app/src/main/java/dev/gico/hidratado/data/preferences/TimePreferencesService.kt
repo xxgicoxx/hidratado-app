@@ -1,4 +1,4 @@
-package dev.gico.hidratado.service
+package dev.gico.hidratado.data.preferences
 
 import android.content.Context
 import java.time.LocalTime

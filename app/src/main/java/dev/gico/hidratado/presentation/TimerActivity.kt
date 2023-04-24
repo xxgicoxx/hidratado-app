@@ -4,11 +4,11 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import dev.gico.hidratado.R
-import dev.gico.hidratado.data.MenuHeader
-import dev.gico.hidratado.data.MenuItemRadio
+import dev.gico.hidratado.data.domain.MenuHeader
+import dev.gico.hidratado.data.domain.MenuItemRadio
 import dev.gico.hidratado.presentation.theme.AppTheme
 import dev.gico.hidratado.presentation.ui.time.TimerOptions
-import dev.gico.hidratado.service.TimePreferencesService
+import dev.gico.hidratado.data.preferences.TimePreferencesService
 import dev.gico.hidratado.utils.NotificationWorkerUtils
 
 class TimerActivity : ComponentActivity() {

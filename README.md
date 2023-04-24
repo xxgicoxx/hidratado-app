@@ -1,14 +1,18 @@
 # HidratadO
 Wear OS app for help you stay hydrated.
 
-<p align="center" width="100" >
-  <img src="assets/imgs/Menu.jpg" width="200">
-  <img src="assets/imgs/Settings.jpg" width="200">
-  <img src="assets/imgs/Notification.jpg" width="200">
+<p align="center">
+  <img src="assets/imgs/hidratado.png" width="1024">
 </p>
 
 # Features
 * Remind yourself to drink water periodically
+
+<p align="center" width="100" >
+  <img src="assets/imgs/menu.jpg" width="200">
+  <img src="assets/imgs/settings.jpg" width="200">
+  <img src="assets/imgs/notification.jpg" width="200">
+</p>
 
 # Prerequisites
 * [Android Studio](https://developer.android.com/studio)

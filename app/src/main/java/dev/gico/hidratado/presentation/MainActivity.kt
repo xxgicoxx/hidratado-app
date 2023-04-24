@@ -10,11 +10,11 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import dev.gico.hidratado.R
-import dev.gico.hidratado.data.MenuHeader
-import dev.gico.hidratado.data.MenuItem
+import dev.gico.hidratado.data.domain.MenuHeader
+import dev.gico.hidratado.data.domain.MenuItem
 import dev.gico.hidratado.presentation.theme.AppTheme
 import dev.gico.hidratado.presentation.ui.menu.MainMenu
-import dev.gico.hidratado.service.TimePreferencesService
+import dev.gico.hidratado.data.preferences.TimePreferencesService
 import dev.gico.hidratado.utils.NotificationWorkerUtils
 
 class MainActivity : AppCompatActivity() {
